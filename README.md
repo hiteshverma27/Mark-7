@@ -1,11 +1,8 @@
-# Mark-7
-This is mark 7 for neogcamp 
-
-A daily life object emoji interpreter app 
+# Ferb-Translator-markSeven
+neog markSeven
 
 ## Features
 
-- Choose between few different emojies
-- Get to know the meaning of emoji when clicked 
-- Use the search box to know the emoji in the dictonary
-- Made using ReactJS
+- Uses Ferb Speak API
+- Converts sentences to Groot language
+- made in VanilaJS
